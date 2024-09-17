@@ -1,0 +1,7 @@
+install libraries:
+1:install node.js
+2: npm install express
+3: npm install nodemon
+ 
+execution commands:
+1.nodemon server-side file name
